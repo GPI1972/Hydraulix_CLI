@@ -1,0 +1,8 @@
+# NetBeans folders & files
+############################
+build/
+dist/
+nbproject/
+test/
+build.xml
+manifest.mf
